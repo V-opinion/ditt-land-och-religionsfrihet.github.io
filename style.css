@@ -112,7 +112,7 @@ br.shim {
 /*~	page alignment	*/
 			body.center {
 				text-align: center;
-				background: #aba7a7 repeat-x url(../images/body-bkg-top-repeat.png) 0 0;
+				background: #aba7a7 repeat-x url(https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/images/body-bkg-top-repeat.png) 0 0;
 				}
 			body.center #container {
 				margin: 0 auto;
@@ -194,7 +194,7 @@ br.shim {
 			.classic .a-b-c .a, 
 			.standard .classic .a-b-c .a {
 				width: 150px;
-				background: #fff repeat-y url(../images/left-menu-bkg-repeat.png) 0 0;
+				background: #fff repeat-y url(https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/images/left-menu-bkg-repeat.png) 0 0;
 				border-left: 1px solid #666;
 			}
 			
@@ -209,7 +209,7 @@ br.shim {
 			
 			.classic .a-b-c .c {
 				width: 180px;
-				background: #fff repeat-y url(../images/right-menu-bkg-repeat.png) 0 0;
+				background: #fff repeat-y url(https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/images/right-menu-bkg-repeat.png) 0 0;
 				border-right: 1px solid #666;
 			}
 			
@@ -268,7 +268,7 @@ br.shim {
 			.standard .layout .b-c .c {
 /* 				width: 33%; */
 				width: 150px;
-				background: #fff repeat-y url(../images/left-menu-bkg-repeat.png) 0 0;
+				background: #fff repeat-y url(https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/images/left-menu-bkg-repeat.png) 0 0;
 				border-left: 1px solid #666;
 				}
 
