@@ -355,7 +355,7 @@ div.tabs ul.secondary a:hover {
 #top_bar {
 	width: 988px;
 	height: 37px;
-	background: #d3d3d3 repeat-x url(../images/top-bar-bkg-repeat.png) 0 0;
+	background: #d3d3d3 repeat-x url(https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/images/top-bar-bkg-repeat.png) 0 0;
 	overflow: hidden;
 	margin: 0 0 0 1px;
 	border-bottom: 1px solid #666;
@@ -489,7 +489,7 @@ div.tabs ul.secondary a:hover {
 
 #sidebar_left .title,
 #sidebar_right .title {
-	background: #fff repeat-x url(../images/title-bkg-repeat.png) 0 0;
+	background: #fff repeat-x url(https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/images/title-bkg-repeat.png) 0 0;
 	height: 20px;
 	padding: 5px;
 	text-align: center;
@@ -529,7 +529,7 @@ div.tabs ul.secondary a:hover {
 
 /* Footer styles */
 #footer {
-	background: #fff repeat-x url(../images/bar-bkg-repeat.png) 0 0;
+	background: #fff repeat-x url(https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/images/bar-bkg-repeat.png) 0 0;
 	border: 1px solid #666;
 	border-top-color: #b2b2b2;
 	height: 18px;
@@ -605,7 +605,7 @@ h2 {
 
 /* Weather widget */
 #weather-widget {
-	background: #fff repeat-x url(../images/weather-bkg.gif) 0 0;
+	background: #fff repeat-x url(https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/images/weather-bkg.gif) 0 0;
 	text-align: center;
 	border-bottom: 1px solid #999;
 	width: 100%;
