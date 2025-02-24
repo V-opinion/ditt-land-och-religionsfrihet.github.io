@@ -92,9 +92,9 @@ btnTableOfContent:["btnBookMark"]
 	totalPageCount : 0,
 	largePageWidth : 1080,
 	largePageHeight : 1440,
-	normalPath : "https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller//page/",
+	normalPath : "https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller/page/",
 	largePath : "https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller/large/",
-	thumbPath : "https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller//thumb/",
+	thumbPath : "https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller/thumb/",
 	
 	ToolBarsSettings:"",
 	TitleBar:"",
