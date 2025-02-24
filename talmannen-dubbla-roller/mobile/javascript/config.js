@@ -92,9 +92,9 @@ btnTableOfContent:["btnBookMark"]
 	totalPageCount : 0,
 	largePageWidth : 1080,
 	largePageHeight : 1440,
-	normalPath : "files/page/",
-	largePath : "files/large/",
-	thumbPath : "files/thumb/",
+	normalPath : "https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller//page/",
+	largePath : "https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller/large/",
+	thumbPath : "https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller//thumb/",
 	
 	ToolBarsSettings:"",
 	TitleBar:"",
@@ -127,8 +127,8 @@ btnTableOfContent:["btnBookMark"]
 	OpenWindow:"_Blank",
 
 	BookMarkButtonVisible:'true',
-	productName : 'Demo created by Flip PDF',
-	homePage : 'http://www.flipbuilder.com/',
+	productName : 'Political Practices in Exile',
+	homePage : 'https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller/',
 	isFlipPdf : "true",
 	TableOfContentButtonVisible:"true",
 	searchTextJS:'javascript/search_config.js',
