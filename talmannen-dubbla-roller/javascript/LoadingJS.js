@@ -1511,7 +1511,7 @@ function GuideLoadingJS() {
     createContactItem(item) {
       var $item = `<div class="${this.POP}Item" key="${item.type}">
           <div>
-            <img src="https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller/style/icon/contactWay_${item.type}.png" />
+            <img src="https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/talmannen-dubbla-roller/mobile/style/icon/contactWay_${item.type}.png" />
           </div>
           <span>${item.title}</span>
         </div>`;
