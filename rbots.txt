@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ditt-land-och-religionsfrihet.multireligionvalsystem.eu.org/sitemap.xml
